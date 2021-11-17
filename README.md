@@ -4,10 +4,7 @@
 ## I'm a Web Developer & Business Administrator  🛠 
 
 
----
 <img align="center" src="https://i.imgur.com/8MupZHY.gif" width="400px" />
-<br>
-<br>
 <br>
 
     
