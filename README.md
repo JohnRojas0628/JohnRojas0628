@@ -1,5 +1,6 @@
 <img align="right" src="https://i.imgur.com/8MupZHY.gif" width="400px" />
 
+<br>
 # Hi there, I'm JohnRojas <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="40px"></h4>
 
 ## I'm a Web Developer & Business Administrator  
