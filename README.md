@@ -57,16 +57,17 @@ I am 20 years old and I live in the city of Bogotá, I am an active business adm
 ### Social Networks 👥
 
 <p align="center">
-    <i>Let's connect and chat! Find me on the web...</i>  
-
-<p align = "center">
-
-<a href="https://www.linkedin.com/in/hrishikesh-bhanja-9348a81b2/">
-    <img align="left" alt="Jugal Bhatt | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-</a>
-<a href="mailto:jhontojas0628@hotmail.com">
-    <img align="left" alt="john rojas gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-</a>
-
+    <i>Let's connect and chat! Find me on the web...</i> 
 </p>
+
+<div align = "center">
+
+    <a href="https://www.linkedin.com/in/hrishikesh-bhanja-9348a81b2/">
+        <img align="left" alt="Jugal Bhatt | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+    </a>
+    <a href="mailto:jhontojas0628@hotmail.com">
+        <img align="left" alt="john rojas gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+    </a>
+
+</div>
 
