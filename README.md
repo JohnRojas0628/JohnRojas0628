@@ -1,4 +1,3 @@
-<img align="right" src="https://i.imgur.com/8MupZHY.gif" width="400px" />
 
 # Hello World, I'm John Rojas <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="40px"></h4>
 
@@ -6,6 +5,7 @@
 
 
 ---
+<img align="right" src="https://i.imgur.com/8MupZHY.gif" width="400px" />
 <br>
 <br>
 <br>
