@@ -59,6 +59,14 @@ I am 20 years old and I live in the city of Bogotá, I am an active business adm
 <p align="center">
   <i>Let's connect and chat! Find me on the web...</i>
   
+    
+    <a href="https://www.linkedin.com/in/hrishikesh-bhanja-9348a81b2/">
+    <img align="left" alt="Jugal Bhatt | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  </a>
+  <a href="mailto:hrishipotter123@gmail.com">
+    <img align="left" alt="Jugal Bhatt | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  </a>
+    
   <p align = "center">
  <a href="https://twitter.com/s08prashant">
   <img align="center" alt="Prashant's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
