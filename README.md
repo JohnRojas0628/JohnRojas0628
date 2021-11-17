@@ -1,7 +1,6 @@
 # Hi there, I'm JohnRojas <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
 
 <img align="right" src="https://i.imgur.com/8MupZHY.gif" width="400px" />
-<br>
 
 ## I'm a Web Developer & Business Administrator  
 
@@ -11,7 +10,6 @@
 - ⚡ Fun fact: I love to play pool and snooker 🎱.
 
 ---
-<br>
 
 ### Languages and Tools 🛠 
 
