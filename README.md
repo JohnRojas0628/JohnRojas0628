@@ -57,10 +57,6 @@ I am 20 years old and I live in the city of Bogotá, I am an active business adm
 ### Social Networks 👥
 
 
-<a href="https://www.linkedin.com/in/hrishikesh-bhanja-9348a81b2/">
-    <img align="center" alt="john rojas linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-</a>
-<a href="mailto:jhontojas0628@hotmail.com">
-    <img align="center" alt="john rojas gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-</a>
+[![Twitter Badge](https://img.shields.io/badge/-@sakshamtaneja-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sakshamtaneja00)](https://twitter.com/sakshamtaneja00) [![Linkedin Badge](https://img.shields.io/badge/-sakshamtaneja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanejasaksham/)](https://www.linkedin.com/in/tanejasaksham/) [![Medium Badge](https://img.shields.io/badge/-@sakshamtaneja-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@sakshamtaneja/)](https://medium.com/sakshamtaneja/)
+[![Gmail Badge](https://img.shields.io/badge/-sakshamtaneja7861@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamtaneja7861@gmail.com)](mailto:sakshamtaneja7861@gmail.com)
 
