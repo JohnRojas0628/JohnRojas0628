@@ -1,13 +1,13 @@
-# Hi there, I'm JohnRojas <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="10px"></h4>
+# Hi there, I'm JohnRojas <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="40px"></h4>
 
 <img align="right" src="https://i.imgur.com/8MupZHY.gif" width="400px" />
 
 ## I'm a Web Developer & Business Administrator  
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play pool and snooker 🎱.
+- I’m currently working on web development technologies like JavaScript, React etc.
+- I’m currently learning everything about Frontend and Backend technologies 😅
+- Future Goals: Learn more technologies.
+- Fun fact: I love to play pool and snooker.
 
 ---
 
