@@ -1,6 +1,6 @@
 <img align="right" src="https://i.imgur.com/8MupZHY.gif" width="400px" />
 
-# Hi there, I'm John Rojas <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="40px"></h4>
+# <Hello World/>, I'm John Rojas <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="40px"></h4>
 
 ## I'm a Web Developer & Business Administrator  🛠 
 
@@ -13,7 +13,7 @@
     
 ## Welcome to my Github! I make some codes to learn new things :sweat_smile:).
 
-### :star: Some fun facts!
+### :star: Some facts!
 - I love Doctor Who, The Umbrella Academy and Star Wars;
 - I'm left handed  :point_left: 
 - This drawing of me was a gift from my friend [@blueIlustra](https://www.instagram.com/blueilustra/) :heart: 
