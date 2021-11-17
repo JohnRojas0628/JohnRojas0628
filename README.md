@@ -4,11 +4,6 @@
 
 ## I'm a Web Developer & Business Administrator  
 
-- I’m currently working on web development technologies like JavaScript, React etc.
-- I’m currently learning everything about Frontend and Backend technologies 😅
-- Future Goals: Learn more technologies.
-- Fun fact: I love to play pool and snooker.
-
 ---
 
 ### Languages and Tools 🛠 
