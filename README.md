@@ -1,7 +1,6 @@
 # Hi there, I'm JohnRojas <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
 
-<div align="right">
-<img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
+<img align="right" src="https://i.imgur.com/8MupZHY.gif" width="400px" />
 <br>
 
 ## I'm a Web Developer & Business Administrator  
