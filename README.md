@@ -56,13 +56,11 @@ I am 20 years old and I live in the city of Bogotá, I am an active business adm
 
 ### About :memo 
 
-- Name: Marc Duiker
-- Pronouns: he/him
-- Company email: mduiker@xpirit.com
-- Twitter: [@marcduiker](https://twitter.com/marcduiker)
-- Presentations: [speakerdeck.com/marcduiker](https://speakerdeck.com/marcduiker)
-- Sessionize: [sessionize.com/marcduiker](https://sessionize.com/marcduiker/)
-- LinkedIn: [linkedin.com/in/mduiker](https://www.linkedin.com/in/mduiker/)
+- Name: John Jairo Rojas Vergara
+- Email: jhonrojas0628@hotmail.com
+- Website: [https://johnjdev.ninja/](https://johnjdev.ninja/)
+- Whatsapp: [https://johnjdev.ninja/](https://johnjdev.ninja/)
+- LinkedIn: [www.linkedin.com/in/john-jairo-rojas-johnjdev](www.linkedin.com/in/john-jairo-rojas-johnjdev)
 
 
 [![Twitter Badge](https://img.shields.io/badge/-@sakshamtaneja-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sakshamtaneja00)](https://twitter.com/sakshamtaneja00)
