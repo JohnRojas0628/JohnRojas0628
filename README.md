@@ -59,8 +59,8 @@ I am 20 years old and I live in the city of Bogotá, I am an active business adm
 - Name: John Jairo Rojas Vergara
 - Email: jhonrojas0628@hotmail.com
 - Website: [https://johnjdev.ninja/](https://johnjdev.ninja/)
-- Whatsapp: [https://johnjdev.ninja/](https://johnjdev.ninja/)
-- LinkedIn: [www.linkedin.com/in/john-jairo-rojas-johnjdev](www.linkedin.com/in/john-jairo-rojas-johnjdev)
+- Whatsapp: [https://wa.me/573212335821](https://wa.me/573212335821)
+- LinkedIn: [https://co.linkedin.com/in/john-jairo-rojas-johnjdev?trk=profile-badge](https://co.linkedin.com/in/john-jairo-rojas-johnjdev?trk=profile-badge)
 
 
 [![Twitter Badge](https://img.shields.io/badge/-@sakshamtaneja-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sakshamtaneja00)](https://twitter.com/sakshamtaneja00)
