@@ -62,9 +62,3 @@ I am 20 years old and I live in the city of Bogotá, I am an active business adm
 - Whatsapp: [https://wa.me/573212335821](https://wa.me/573212335821)
 - LinkedIn: [https://co.linkedin.com/in/john-jairo-rojas-johnjdev?trk=profile-badge](https://co.linkedin.com/in/john-jairo-rojas-johnjdev?trk=profile-badge)
 
-
-[![Whatsapp Badge](https://img.shields.io/badge/
-[![Linkedin Badge](https://img.shields.io/badge/-sakshamtaneja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanejasaksham/)](https://www.linkedin.com/in/tanejasaksham/) 
-[![Medium Badge](https://img.shields.io/badge/-@sakshamtaneja-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@sakshamtaneja/)](https://medium.com/sakshamtaneja/)
-[![Gmail Badge](https://img.shields.io/badge/-sakshamtaneja7861@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamtaneja7861@gmail.com)](mailto:sakshamtaneja7861@gmail.com)
-
