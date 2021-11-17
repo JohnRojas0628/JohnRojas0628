@@ -14,7 +14,7 @@
 ## Welcome to my Github! I make some codes to learn new things :sweat_smile:
 
 ### :star: Who am I?
-- I am 20 years old and I live in the city of Bogotá, I am an active business administration student, currently in the ninth semester, I am also passionate about the world of technology, I am a student of the Educamas foundation in the Which I am trained as a full stack web programmer. I consider myself to be a determined and risky person, I love challenges and in my daily life they are not lacking, this helps me to grow daily as a person and as a professional. 
+I am 20 years old and I live in the city of Bogotá, I am an active business administration student, currently in the ninth semester, I am also passionate about the world of technology, I am a student of the Educamas foundation in the Which I am trained as a full stack web programmer. I consider myself to be a determined and risky person, I love challenges and in my daily life they are not lacking, this helps me to grow daily as a person and as a professional. 
 
 ---
 
