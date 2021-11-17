@@ -1,12 +1,11 @@
 <img align="right" src="https://i.imgur.com/8MupZHY.gif" width="400px" />
 
-# Hi there, I'm JohnRojas <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="40px"></h4>
+# Hi there, I'm John Rojas <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="40px"></h4>
 
 ## I'm a Web Developer & Business Administrator  🛠 
 
 
 ---
-<br>
 <br>
 <br>
 <br>
@@ -20,6 +19,7 @@ Welcome to my Github! I make some fun codes to learn new things and help other p
 - I'm left handed  :point_left: 
 - This drawing of me was a gift from my friend [@blueIlustra](https://www.instagram.com/blueilustra/) :heart: 
 
+---
 
 ### Languages and Tools 🛠 
 
