@@ -4,6 +4,7 @@
 
 ## I'm a Web Developer & Business Administrator  
 
+<br>
 ---
 
 ### Languages and Tools 🛠 
