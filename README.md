@@ -57,19 +57,3 @@
 
 </p>
 
-   
-
-  <p align="center">
-    Show ❤️ by starring repositories you find good! 
-    <br />
-    ⭐️ From [Anushka Verma](https://github.com/verma-anushka)
-    <br />
-    Also, star and fork this repository if you wish to give this new feature a try!
-  </p>
-</p>
-
-<div align="right">
-  
-[![HitCount](http://hits.dwyl.com/verma-anushka/verma-anushka.svg)](http://hits.dwyl.com/verma-anushka/verma-anushka) ![ViewCount](https://views.whatilearened.today/views/github/verma-anushka/verma-anushka.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://verma-anushka.github.io/anushkaverma/)
-
-</div>
