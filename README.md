@@ -11,6 +11,7 @@
 - ⚡ Fun fact: I love to play pool and snooker 🎱.
 
 ---
+<br>
 
 ### Languages and Tools 🛠 
 
@@ -22,11 +23,6 @@
 
   </div>
   </p>
-
----
-
-  
-<br/>
 
 ---
 
