@@ -1,3 +1,4 @@
+![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)
 # Hi there, I'm JohnRojas <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
 
 <img align="right" src="https://i.imgur.com/8MupZHY.gif" width="400px" />
