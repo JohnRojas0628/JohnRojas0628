@@ -11,7 +11,15 @@
 ## Welcome to my Github! I make some codes to learn new things :sweat_smile:
 
 ### Who am I? 🧔
-I am 20 years old and I live in the city of Bogotá, I am an active business administration student, currently in the ninth semester, I am also passionate about the world of technology, I am a student of the Educamas foundation in the Which I am trained as a full stack web programmer. I consider myself to be a determined and risky person, I love challenges and in my daily life they are not lacking, this helps me to grow daily as a person and as a professional. 
+Hello, I'm John! Hailing from the vibrant city of Bogotá and a passionate student pursuing a degree in computer engineering at the prestigious University of La Sabana.
+
+My fascination with the world of technology has led me on a continuous journey of learning. I began my journey in the realm of information technology with an intensive full-stack web development bootcamp, provided by the Educamas Foundation. Additionally, I'm currently enrolled in specialized coding and programming courses at Javeriana University.
+
+In my day-to-day life, I thrive as a creative front-end web developer, channeling my passion into implementing innovative technological solutions. I consider myself a determined and adventurous individual, always seeking out challenges. In my daily life, there is never a shortage of opportunities to grow, both as a person and as a professional.
+
+I invite you to explore my projects on GitHub, where you'll find a collection of my efforts, achievements, and learnings. If you share my interest in technology and programming, I'd be delighted to connect with you and collaborate on future challenges.
+
+I hope you enjoy exploring my repository and discovering the technological solutions I've created!
 
 ---
 
@@ -21,7 +29,6 @@ I am 20 years old and I live in the city of Bogotá, I am an active business adm
 
   <div align="center">
   
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
@@ -45,7 +52,7 @@ I am 20 years old and I live in the city of Bogotá, I am an active business adm
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=JohnRojas0628&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JohnRojas06289&show_icons=true" />
 
 </p>
 
@@ -56,6 +63,6 @@ I am 20 years old and I live in the city of Bogotá, I am an active business adm
 
 - Name: John Jairo Rojas Vergara
 - Email: jhonrojas0628@hotmail.com
-- Website: [https://johnjdev.ninja/](https://johnjdev.ninja/)
-- Whatsapp: [https://wa.me/573212335821](https://wa.me/573212335821)
+- Website: [https://john-rojas.github.io/portfolio/](https://john-rojas.github.io/portfolio/))
+- Whatsapp: [https://wa.me/johnrojas0628](https://wa.me/573212335821)
 - LinkedIn: [https://co.linkedin.com/in/john-jairo-rojas-johnjdev?trk=profile-badge](https://co.linkedin.com/in/john-jairo-rojas-johnjdev?trk=profile-badge)
