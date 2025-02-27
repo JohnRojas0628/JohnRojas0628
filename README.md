@@ -63,6 +63,6 @@ I hope you enjoy exploring my repository and discovering the technological solut
 
 - Name: John Jairo Rojas Vergara
 - Email: jhonrojas0628@hotmail.com
-- Website: [https://john-rojas.github.io/portfolio/](https://john-rojas.github.io/portfolio/))
+- Website: [[https://john-rojas.github.io/portfolio](https://johnrojas06289.github.io/PortfolioSecond/)/]([https://john-rojas.github.io/portfolio/](https://johnrojas06289.github.io/PortfolioSecond/)))
 - Whatsapp: [https://wa.me/johnrojas0628](https://wa.me/573212335821)
-- LinkedIn: [https://co.linkedin.com/in/john-jairo-rojas-johnjdev?trk=profile-badge](https://co.linkedin.com/in/john-jairo-rojas-johnjdev?trk=profile-badge)
+- LinkedIn: [www.linkedin.com/in/john-jairo-rojas-johnjdev](www.linkedin.com/in/john-jairo-rojas-johnjdev)
